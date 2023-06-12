@@ -1,0 +1,12 @@
+register user 8329573115 411021
+register admin 8329573016 411021
+report 411021 10 12 25
+report 121002 114 11 2
+selfassessment 8329573115 y y y
+covidresult 8329573016 8329573115 y
+covidresult 8329573011 8329573117 n
+display 411021
+display 121002
+display
+getzone 411021
+getzone 121002
